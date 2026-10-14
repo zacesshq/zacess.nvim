@@ -1,0 +1,9 @@
+# this repository is a read-only copy, so every report goes to the repository the theme is made in
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem or suggest a change
+    url: https://github.com/zacesshq/themes/issues/new/choose
+    about: The Neovim colour schemes are made in zacesshq/themes. Problems, ideas and colour requests go there.
+  - name: Ask a question
+    url: https://github.com/orgs/zacesshq/discussions
+    about: Questions and ideas about Zacess themes.
