@@ -214,7 +214,7 @@ hl(0, "@lsp.type.comment", { fg = "#abb6c1", italic = true })
 hl(0, "@lsp.type.variable", { fg = "#f5f5f5" })
 hl(0, "@lsp.type.decorator", { fg = "#84b7fa" })
 
-vim.g.terminal_color_0 = "#2b2b2b"
+vim.g.terminal_color_0 = "#a3a3a3"
 vim.g.terminal_color_1 = "#ffa79b"
 vim.g.terminal_color_2 = "#8dcd8e"
 vim.g.terminal_color_3 = "#deb967"
@@ -222,7 +222,7 @@ vim.g.terminal_color_4 = "#90c1ff"
 vim.g.terminal_color_5 = "#eba8e4"
 vim.g.terminal_color_6 = "#52d0cf"
 vim.g.terminal_color_7 = "#e6e6e6"
-vim.g.terminal_color_8 = "#aeaeae"
+vim.g.terminal_color_8 = "#c8c8c8"
 vim.g.terminal_color_9 = "#ffd5ce"
 vim.g.terminal_color_10 = "#aceead"
 vim.g.terminal_color_11 = "#ffda8a"
