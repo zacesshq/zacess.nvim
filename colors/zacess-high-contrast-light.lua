@@ -77,7 +77,7 @@ hl(0, "Changed", { fg = "#00307a" })
 hl(0, "diffAdded", { fg = "#005518" })
 hl(0, "diffRemoved", { fg = "#4a0000" })
 hl(0, "diffChanged", { fg = "#00307a" })
-hl(0, "Comment", { fg = "#3d4752", italic = true })
+hl(0, "Comment", { fg = "#1701fb", italic = true })
 hl(0, "Constant", { fg = "#521e00" })
 hl(0, "String", { fg = "#005518" })
 hl(0, "Character", { fg = "#005518" })
@@ -106,7 +106,7 @@ hl(0, "Special", { fg = "#720030" })
 hl(0, "SpecialChar", { fg = "#720030" })
 hl(0, "Tag", { fg = "#4b0091", bold = true })
 hl(0, "Delimiter", { fg = "#000000" })
-hl(0, "SpecialComment", { fg = "#3d4752", italic = true })
+hl(0, "SpecialComment", { fg = "#1701fb", italic = true })
 hl(0, "Debug", { fg = "#8a0046", bold = true })
 hl(0, "Underlined", { fg = "#003d99", underline = true })
 hl(0, "Error", { fg = "#600000", underline = true, sp = "#600000" })
@@ -175,8 +175,8 @@ hl(0, "@punctuation", { fg = "#000000" })
 hl(0, "@punctuation.delimiter", { fg = "#000000" })
 hl(0, "@punctuation.bracket", { fg = "#000000" })
 hl(0, "@punctuation.special", { fg = "#000000" })
-hl(0, "@comment", { fg = "#3d4752", italic = true })
-hl(0, "@comment.documentation", { fg = "#3d4752", italic = true })
+hl(0, "@comment", { fg = "#1701fb", italic = true })
+hl(0, "@comment.documentation", { fg = "#1701fb", italic = true })
 hl(0, "@comment.error", { fg = "#8b0000", bold = true, italic = true })
 hl(0, "@comment.warning", { fg = "#5a3a00", bold = true, italic = true })
 hl(0, "@comment.todo", { fg = "#8a0046", bold = true, italic = true })
@@ -186,7 +186,7 @@ hl(0, "@markup.italic", { italic = true })
 hl(0, "@markup.strikethrough", { strikethrough = true })
 hl(0, "@markup.underline", { underline = true })
 hl(0, "@markup.heading", { fg = "#4b0091", bold = true })
-hl(0, "@markup.quote", { fg = "#3d4752", italic = true })
+hl(0, "@markup.quote", { fg = "#1701fb", italic = true })
 hl(0, "@markup.link", { fg = "#003d99", underline = true })
 hl(0, "@markup.link.url", { fg = "#003d99", underline = true })
 hl(0, "@markup.link.label", { fg = "#003d99" })
@@ -210,23 +210,23 @@ hl(0, "@lsp.type.enum", { fg = "#004f4e" })
 hl(0, "@lsp.type.enumMember", { fg = "#521e00" })
 hl(0, "@lsp.type.namespace", { fg = "#004f4e" })
 hl(0, "@lsp.type.keyword", { fg = "#4b0091", bold = true })
-hl(0, "@lsp.type.comment", { fg = "#3d4752", italic = true })
+hl(0, "@lsp.type.comment", { fg = "#1701fb", italic = true })
 hl(0, "@lsp.type.variable", { fg = "#000000" })
 hl(0, "@lsp.type.decorator", { fg = "#00347f" })
 
 vim.g.terminal_color_0 = "#000000"
-vim.g.terminal_color_1 = "#8b0000"
-vim.g.terminal_color_2 = "#005518"
-vim.g.terminal_color_3 = "#5c3d00"
-vim.g.terminal_color_4 = "#003d99"
-vim.g.terminal_color_5 = "#6b0066"
-vim.g.terminal_color_6 = "#004f4e"
+vim.g.terminal_color_1 = "#ca0000"
+vim.g.terminal_color_2 = "#017424"
+vim.g.terminal_color_3 = "#875b00"
+vim.g.terminal_color_4 = "#005bdc"
+vim.g.terminal_color_5 = "#b400ac"
+vim.g.terminal_color_6 = "#006f6e"
 vim.g.terminal_color_7 = "#3d3d3d"
 vim.g.terminal_color_8 = "#333333"
-vim.g.terminal_color_9 = "#a30000"
-vim.g.terminal_color_10 = "#00661a"
-vim.g.terminal_color_11 = "#6b4700"
-vim.g.terminal_color_12 = "#0049a3"
-vim.g.terminal_color_13 = "#80007a"
-vim.g.terminal_color_14 = "#005f5f"
+vim.g.terminal_color_9 = "#e90100"
+vim.g.terminal_color_10 = "#018726"
+vim.g.terminal_color_11 = "#9c6a01"
+vim.g.terminal_color_12 = "#016eee"
+vim.g.terminal_color_13 = "#cf00c6"
+vim.g.terminal_color_14 = "#028181"
 vim.g.terminal_color_15 = "#000000"
