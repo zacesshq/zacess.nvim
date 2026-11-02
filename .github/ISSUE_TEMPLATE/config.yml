@@ -7,3 +7,6 @@ contact_links:
   - name: Ask a question
     url: https://github.com/orgs/zacesshq/discussions
     about: Questions and ideas about Zacess themes.
+  - name: AI policy
+    url: https://github.com/zacesshq/.github/blob/main/AI_POLICY.md
+    about: How AI may and may not be used in issues and pull requests here.
